@@ -1,2 +1,2 @@
 # YouTube tutorials
-This is repository for tutorials on my YouTube channel: https://bit.ly/2FkrgoS
+This is a repository used for tutorials that I make on my [YouTube channel](https://www.youtube.com/user/scrollerscroller).
