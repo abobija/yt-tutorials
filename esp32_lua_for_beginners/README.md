@@ -5,7 +5,7 @@ _*Click on image...*_
 
 [![Programming ESP32 in Lua using ESPlorer IDE | For Beginners)](https://img.youtube.com/vi/ICRAlUCPpwY/hqdefault.jpg)](https://www.youtube.com/watch?v=ICRAlUCPpwY)
 
-## Application written in video
+## Application written in the video
 
 ```
 -- Print some welcome message
