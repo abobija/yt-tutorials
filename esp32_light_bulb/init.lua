@@ -1,3 +1,9 @@
+-- Title       : ESP32 WiFi LightBulb
+-- Author      : Alija Bobija
+-- Description : REST Service (api32) for controlling lightbulb state over the WiFi network
+-- GitHub      : https://github.com/abobija/yt-tutorials/tree/master/esp32_light_bulb
+-- Api32       : https://github.com/abobija/api32
+
 local PIN_LIGHT_BULB = 14
 
 gpio.config({ gpio = PIN_LIGHT_BULB, dir = gpio.IN_OUT })
