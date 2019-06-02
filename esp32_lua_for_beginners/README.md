@@ -7,7 +7,7 @@ _*Click on image...*_
 
 ## Application written in the video
 
-```
+```lua
 -- Print some welcome message
 print('Hello from init.lua file!')
 
