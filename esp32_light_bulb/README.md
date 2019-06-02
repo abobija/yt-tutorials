@@ -1,5 +1,6 @@
 # ESP32 Light Bulb
 
+This project uses [`Api32`](https://github.com/abobija/api32) library for creating REST service on ESP32 and controlling state of Light Bulb over the WiFi network.
 
 YouTube demo:
 
