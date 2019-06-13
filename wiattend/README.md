@@ -16,6 +16,7 @@ For this tutorial you need to have installed [Git](https://git-scm.com/downloads
     
     ```
     git clone "https://github.com/abobija/wiattend-srv.git"
+    cd wiattend-srv
     ```
     
     Edit configuration file at path `src/config.js`
@@ -23,7 +24,7 @@ For this tutorial you need to have installed [Git](https://git-scm.com/downloads
     Install node dependencies & start the server
     
     ```
-    npm install
+    npm i
     npm start
     ```
 
@@ -31,9 +32,15 @@ For this tutorial you need to have installed [Git](https://git-scm.com/downloads
 
     ```
     git clone --recurse-submodules "https://github.com/abobija/wiattend.git"
+    cd wiattend
     ```
     
-    Edit configuration file `config.json` & upload files to ESP32.
+    Edit configuration file `config.json` & upload files to ESP32 (set your COM port).
+    
+    ```
+    npm i
+    npm run upload -- --port=COM7
+    ```
 
   - Client
 
