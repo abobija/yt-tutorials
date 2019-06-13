@@ -1,6 +1,6 @@
 # Wiattend
 
-## Dependencies
+## Requirements
 
 For this tutorial you need to have installed [Git](https://git-scm.com/downloads), [NodeJS](https://nodejs.org) and [MySQL](https://www.mysql.com/).
 
