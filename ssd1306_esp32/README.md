@@ -1,8 +1,8 @@
-# C# Insert Into MySQL
+# Connect ESP32 with SSD1306 OLED Display using Lua, NodeMC
 
 ## YouTube
 
-[![Connect SSD1306 with ESP32 using Lua, NodeMCU](https://img.youtube.com/vi/-wUoj2wqoe8/hqdefault.jpg)](https://www.youtube.com/watch?v=-wUoj2wqoe8)
+[![Connect ESP32 with SSD1306 OLED Display using Lua, NodeMC](https://img.youtube.com/vi/-wUoj2wqoe8/hqdefault.jpg)](https://www.youtube.com/watch?v=-wUoj2wqoe8)
 
 ## Code
 
