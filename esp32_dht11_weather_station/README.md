@@ -6,13 +6,13 @@
 
 ## Pinout
 
-| DHT11 | ESP32 |
+| DHT11 | NodeMCU - ESP32 |
 | --- | --- |
 | GND | GND |
 | VCC | VN |
 | DATA | 25 |
 
-| SSD1306 | ESP32 |
+| SSD1306 | NodeMCU - ESP32 |
 | --- | --- |
 | GND | GND |
 | VCC | 3V3 |
