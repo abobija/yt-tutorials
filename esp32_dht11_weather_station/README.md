@@ -4,6 +4,21 @@
 
 [![ESP32 Weather Station, DHT11, SSD1306](https://img.youtube.com/vi/kZOR3DmBcmE/hqdefault.jpg)](https://www.youtube.com/watch?v=kZOR3DmBcmE)
 
+## Pinout
+
+| DHT11 | ESP32 |
+| --- | --- |
+| GND | GND |
+| VCC | VN |
+| DATA | 25 |
+
+| SSD1306 | ESP32 |
+| --- | --- |
+| GND | GND |
+| VCC | 3V3 |
+| SCL | 27 |
+| SDL | 26 |
+
 ## Code
 
 ```lua
