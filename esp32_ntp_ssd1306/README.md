@@ -1,8 +1,8 @@
-# ESP32, Real Time Clock using NTP, SSD1306
+# ESP32, Real Time Clock, NTP Client, SSD1306
 
 ## YouTube
 
-[![ESP32, Real Time Clock using NTP, SSD1306](https://img.youtube.com/vi/u1vkhqi-N4c/hqdefault.jpg)](https://www.youtube.com/watch?v=u1vkhqi-N4c)
+[![ESP32, Real Time Clock, NTP Client, SSD1306](https://img.youtube.com/vi/u1vkhqi-N4c/hqdefault.jpg)](https://www.youtube.com/watch?v=u1vkhqi-N4c)
 
 ## Code
 
