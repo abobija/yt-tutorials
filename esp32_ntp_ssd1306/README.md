@@ -1,4 +1,4 @@
-# Connect ESP32 with SSD1306 OLED Display using Lua, NodeMCU
+# ESP32, Real Time Clock using NTP, SSD1306
 
 ## YouTube
 
